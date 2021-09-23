@@ -1,0 +1,28 @@
+{
+  "name": "yanderekitsuneapi",
+  "version": "1.0.0",
+  "description": "API for Yandere Kitsune Discord BOT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "API",
+    "express",
+    "nodejs",
+    "node.js",
+    "javascript",
+    "expressjs"
+  ],
+  "author": "Christian Harjuno (SorataBaka)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "shortid": "^2.2.16"
+  }
+}
