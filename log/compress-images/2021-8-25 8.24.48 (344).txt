@@ -1,0 +1,7 @@
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_1667.png]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_1667.png]
+
+Compression algorithm: [pngout]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\pngout-bin\vendor\pngout.exe D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_1667.png D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_1667.png --quality=20-50 -o

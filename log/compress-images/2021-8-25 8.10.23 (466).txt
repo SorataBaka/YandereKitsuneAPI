@@ -1,0 +1,54 @@
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5411.PNG]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5411.PNG]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5411.PNG D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5411.PNG
+  error: Not a PNG file (libpng failed)
+  error: cannot decode image D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\assets\IMG_5411.PNG
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5408.PNG]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5408.PNG]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5408.PNG D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5408.PNG
+  error: Not a PNG file (libpng failed)
+  error: cannot decode image D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\assets\IMG_5408.PNG
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5627.PNG]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5627.PNG]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5627.PNG D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5627.PNG
+  error: Not a PNG file (libpng failed)
+  error: cannot decode image D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\assets\IMG_5627.PNG
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_4290.PNG]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_4290.PNG]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_4290.PNG D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_4290.PNG
+  error: Not a PNG file (libpng failed)
+  error: cannot decode image D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\assets\IMG_4290.PNG
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_4665.PNG]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_4665.PNG]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_4665.PNG D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_4665.PNG
+  error: Not a PNG file (libpng failed)
+  error: cannot decode image D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\assets\IMG_4665.PNG
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_4291.PNG]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_4291.PNG]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_4291.PNG D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_4291.PNG
+  error: Not a PNG file (libpng failed)
+  error: cannot decode image D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\assets\IMG_4291.PNG

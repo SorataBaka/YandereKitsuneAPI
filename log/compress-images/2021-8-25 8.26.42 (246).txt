@@ -1,0 +1,8 @@
+File from: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5408.png]
+
+File to: [D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5408.png]
+
+Compression algorithm: [webp]
+
+Description: Error: Command failed: D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI\node_modules\cwebp-bin\vendor\cwebp.exe --quality=20-50 -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/assets/IMG_5408.png -o D:\Users\harju\Documents\Source Codes\JavaScript Projects\YandereKitsuneAPI/build/img/IMG_5408.png
+Error! Unknown option '--quality=20-50'

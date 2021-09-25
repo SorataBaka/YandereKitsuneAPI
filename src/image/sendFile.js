@@ -3,12 +3,19 @@ const fs = require('fs');
 module.exports = (req, res, next) =>{
     const { params } = req
     const imageName = params.image
-    if(!fs.existsSync(__dirname + `/../imagegenerator/assets/${imageName}`)){
+    
+
+    var newPath = path.resolve(__dirname + `/../../build/img/${imageName}`)
+    if(req.query.quality?.toLowerCase() == "original"){
+        newPath = path.resolve(__dirname + `/../../assets/${imageName}`)
+    }
+
+    if(!fs.existsSync(newPath)){
         return res.json({
             Status: 404,
             Message: "File not found"
         })
     }
-    return res.sendFile(path.resolve(__dirname + `/../imagegenerator/assets/${imageName}`))
+    return res.sendFile(newPath)
 
 }
