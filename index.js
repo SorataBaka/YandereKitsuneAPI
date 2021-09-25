@@ -11,7 +11,7 @@ const router = require("./src/router.js")
 app.use(express.json())
 app.use(morgan("dev"))
 app.use(nocache())
-app.use(compression())
+app.use(compression({level : 9, memlevel: 9, strategy: "zlib.Z_HUFFMAN_ONLY"}))
 app.use("/", router)
 
 app.get("/", (req, res, next) => {
